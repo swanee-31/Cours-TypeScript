@@ -1,0 +1,4 @@
+Exemples pour initiation TypeScript
+Pour compiler : npx tsc
+Le résultat se trouve dans ./dist
+Pour executer : node dist\TP-Animal.js
