@@ -1,4 +1,4 @@
-const message: string = "Bienvenue dans TyerpeScript !";
+const message: string = "Bienvenue dans TypeScript !";
 console.log(message);
 
 let prenom: string = "Alice";
